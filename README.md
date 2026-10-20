@@ -1,14 +1,3 @@
-=== AI Multilingual SEO ===
-Requires at least: 5.8
-Requires PHP: 7.4
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
-AI-powered multilingual SEO for WordPress. Translate pages, posts, WooCommerce products, and SEO metadata with AI-assisted translation, human review, hreflang support, and language-specific XML sitemaps.
-
-== Description ==
-
 **AI Multilingual SEO** helps you create and manage multilingual WordPress websites with AI-assisted translations and SEO optimization.
 
 Key capabilities include:
